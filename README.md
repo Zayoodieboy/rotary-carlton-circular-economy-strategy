@@ -43,15 +43,18 @@ Textile waste is a severe problem resulted in a significant negative environment
 
 The fashion industry's root causes in Melbourne include fast fashion (excessive textile production), International migration (overconsumption, low 3Rs rate) (Jr, 2023). The fast fashion business model creates a constant desire for new collections, leading customers to feel outdated and buy more (SAXON, 2022). Retail giants like ZARA, and H&M, use this strategy to attract young customers and generate media attention (Barnes, 2006). In 2022, overseas migration in Australia increases by 171,000 (Australian Bureau of Statistics, 2022). Clothing consumption has also skyrocketed, with 80 billion garments purchased each year, a 400% increase compared to previous decades (Morgan, 2015).
 
-> **[🖼️ PLACEHOLDER: Insert Figure 1 - Problem Tree of Textile Waste here]**  
-> *(Graph mapping: Fast Fashion & Migration -> Problem: Textile Waste -> Air/Global Warming, Soil/Deforestation, Microfiber/Disease, Water/Scarcity)*
+<img width="494" height="416" alt="Screenshot 2026-10-11 140058" src="https://github.com/user-attachments/assets/5cf77612-a52a-43c0-b585-5eeb5a8b6793" />
+
+**Figure 1 - Problem Tree of Textile Waste**  
 
 ### Effects
 
 The main effect of textile waste is water, microfiber, air, and soil pollution. Toxic substances, including mercury and arsenic, are dumped into rivers, threatening human health (Noyes, 2022). Cotton cultivation further exacerbates water scarcity, with 9,700 liters needed for every kilogram of cotton (Leahy, 2015). 35% of microplastic pollution comes from fashion, and these microfibers can enter the food chain, leading to diseases (Milton, 2023). Manufacturing and transporting textiles require substantial energy, and synthetic fibers from fossil fuels intensify this energy consumption. Practices like overgrazing cashmere goats, raising sheep for wool, and using chemicals in cotton cultivation lead to soil degradation (Charpail, 2022).
 
-> **[🖼️ PLACEHOLDER: Insert Figure 2 - Fishbone Diagram of Textile Waste here]**  
-> *(Fishbone chart mapping Microfiber, Water, Air, and Soil effects)*
+<img width="455" height="353" alt="Screenshot 2026-10-11 140040" src="https://github.com/user-attachments/assets/99044068-7d87-4036-9c24-210570a1b801" />
+
+**Figure 2 - Fishbone Diagram of Textile Waste**  
+
 
 ### Affected Parties & Stakeholder Analysis
 
@@ -61,10 +64,10 @@ The main effect of textile waste is water, microfiber, air, and soil pollution. 
 | **Donors/Sponsors** *(Joy et al. 2021)* | High | High | RCC's main funders help RCC strengthen its financial base to achieve its goals. Their interests are very important because the projects can go smoothly with their funding and support. |
 | **RCC Members** *(Garner & Garner 2011; Thompson & Doherty 2006)* | Low | High | People who are responsible for conducting RCC's activities. Their interests align with RCC's objectives. |
 | **Beneficiaries** *(Dewi et al. 2021)* | Low | Low | They do not have much influence on the organization. Their interests may or may not align with RCC's objectives. However, this group is the target that RCC aims to influence. |
+ 
+<img width="484" height="371" alt="Screenshot 2026-10-11 140022" src="https://github.com/user-attachments/assets/499031ab-711f-44bc-88df-2d2eed756105" />
 
-> **[🖼️ PLACEHOLDER: Insert Figure 3 - Mendelow's Matrix Visual Diagram here]**  
-> *(2x2 grid mapping Power vs Interest for Beneficiaries, RCC Members, Government, and Sponsors)*
-
+**Figure 3 - Mendelow's Matrix Visual Diagram** 
 ---
 
 ## Part B - Analysis of the External Business Environment
@@ -84,9 +87,9 @@ The PESTLE model provides RCC's clothes recycling project with a comprehensive f
 
 According to Scott (2023), when a non-profit organisation like the Rotary Club of Carlton uses the Porter's Five Forces model, they can assess the negotiating power of its suppliers, evaluate the threat of new competitors entering the market, and develop strategies to differentiate its partner and improve its competitive position in the market.
 
-> **[🖼️ PLACEHOLDER: Insert Figure 4 - Porter's Five Forces Model Diagram here]**  
-> *(Diagram showing Threat of New Entrants: Low, Bargaining Power of Buyers: Moderate, Bargaining Power of Suppliers: Low, Threat of Substitutes: High, Rivalry Among Existing Competitors: High)*
+<img width="508" height="305" alt="Screenshot 2026-10-11 140005" src="https://github.com/user-attachments/assets/e86a558c-65ba-447a-b700-ab3c34d328c7" />
 
+**Figure 4 - Porter's Five Forces Model Diagram**  
 ---
 
 ## Part C - Competitor Analysis
@@ -127,8 +130,9 @@ The diverse areas of focus, strong brand image and diverse networking capabiliti
 
 ## Part D - The Solution & Recommendations
 
-> **[🖼️ PLACEHOLDER: Insert Figure 5 - Social Impact Scaling Strategies Framework here]**  
-> *(Tree chart showing Organizational growth strategy vs Ecosystem growth strategy)*
+> <img width="466" height="293" alt="Screenshot 2026-10-11 135850" src="https://github.com/user-attachments/assets/46a1fe66-01d8-4cd3-93b5-c87e9187423b" />
+
+**Figure 5 - Social Impact Scaling Strategies Framework**  
 
 ### Literature Review
 
@@ -148,8 +152,10 @@ RCC would benefit from adopting ecosystem growth strategies to scale its social 
 | **Measure of success** | • Return on investment<br>• Reach statistics, i.e the number of attendees, reach rate on social media |
 | **Result** | The funding will be directed to local businesses in the fashion industry to practice a circular economy. |
 
-> **[🖼️ PLACEHOLDER: Insert Figure 6 - Project's Overview Diagram here]**  
-> *(Inputs ➡️ Activities ➡️ Outputs ➡️ Outcome flowchart)*
+<img width="514" height="150" alt="Screenshot 2026-10-11 140116" src="https://github.com/user-attachments/assets/e809be19-c9ef-40ff-9a08-4358cd289e2b" />
+
+**Figure 6 - Project's Overview Diagram**  
+
 
 ### Recommendation 1: Collect unused clothes for repurpose alongside UPPAREL
 
@@ -157,15 +163,20 @@ UPPAREL is a textile recycler with a focus on sustainable clothing. They aim to 
 
 **Purpose:** RCC can establish a partnership with UPPAREL to lend a hand with clothes collection in the community. RCC can deploy available human resources from volunteer base to collect clothes when in need.
 
-> **[🖼️ PLACEHOLDER: Insert Figure 7 - UPPAREL Home Collection Service Workflow here]**  
-> *(Step 1: Purchase a collection, Step 2: Package your clean textiles, Step 3: Book your collection)*
+<img width="565" height="300" alt="Screenshot 2026-10-11 140130" src="https://github.com/user-attachments/assets/20c65e9e-a23c-4e73-a77a-5ccc7118b058" />
+
+**Figure 7 - UPPAREL Home Collection Service Workflow**  
+
 
 ### Recommendation 2: Repurpose unused clothes alongside The Social Studio
 
 The Social Studio could use the textiles to produce new clothing items. The fabric could also be transformed into accessories such as scarves, bags, or hats. If the fabric is not high enough quality for clothing or accessories, it could be used as material for home textiles such as curtains or pillowcases.
 
-> **[🖼️ PLACEHOLDER: Insert Figure 8 - Textiles in a Circular Way Infographic here]**  
-> *(Designed to last and be reused, Made using sustainable materials, Shared and donated, Re-purposed, repaired and recycled)*
+<img width="507" height="239" alt="Screenshot 2026-10-11 140145" src="https://github.com/user-attachments/assets/4bc18b44-c9ea-4196-9e53-fc78f97523b3" />
+
+**Figure 8 - Textiles in a Circular Way Infographic**  
+
+
 
 ### Recommendation 3: Host a fundraising event alongside The Council of Textile and Fashion Industries of Australia
 
@@ -182,8 +193,9 @@ By selling the repurposed items at the workshop, the RCC could generate revenue 
 | Repurpose collected clothes with The Social Studio | 1. Create a special collection of repurposed clothing and accessories 2. Recruit volunteers if needed | Human resources team | By March 2024 |
 | Prepare for fundraising event(s) | 1. Find the venue for the workshop 2. Display the collection prominently 3. Use social media and online platforms 4. Host a silent auction or raffle 5. Encourage attendees to purchase items | Event team / Marketing team | By April 2024 |
 
-> **[🖼️ PLACEHOLDER: Insert Figure 9 - Timeline for the Project Diagram here]**  
-> *(Timeline mapping Jan, Feb, Mar, Apr milestones)*
+<img width="577" height="149" alt="Screenshot 2026-10-11 140200" src="https://github.com/user-attachments/assets/ecb57557-92e2-43c9-a6f4-85c99aa5452e" />
+
+**Figure 9 - Timeline for the Project Diagram**  
 
 #### Estimated Cost Table
 
@@ -218,12 +230,9 @@ By selling the repurposed items at the workshop, the RCC could generate revenue 
   * **Economic Value:** The global fast fashion market is expected to grow from \$25.09 in 2020 to \$39.84 billion by 2025 (Hailstone, 2023). Therefore, the recommendation is 90% feasible for RCC to consider.
 * **Feasible:** The fundraising workshop can run smoothly with RCC's existing organizational structure, volunteers, and other resources. It can be arranged successfully with the proper venue, all material needs, and financial management. Based on the financial estimation, we can see that RCC can run a successful workshop that covers costs if revenue of \$2,025AUD is made.
 
-> **[🖼️ PLACEHOLDER: Insert Figure 10 - Key Statistics Sustainable Fashion Industry Infographic here]**  
-> *(Infographic showing \$6.5B current value, \$10.1B by 2025, \$15B by 2030, 8.3% annual growth rate, 18 Million additional jobs, \$192B boost to global economy, 5.6x growth for sustainable products)*
+<img width="440" height="445" alt="Screenshot 2026-10-11 140220" src="https://github.com/user-attachments/assets/cd43602f-529c-4c99-91b5-0107a2e8eb10" />
 
-> **[🖼️ PLACEHOLDER: Insert Figure 11 - Goals for Workshop Diagram here]**  
-> *(Goal 1, Goal 2, and Goal 3 cards)*
-
+**Figure 10 - Key Statistics Sustainable Fashion Industry Infographic**  
 ---
 
 ## Conclusion
@@ -341,6 +350,10 @@ The necessity of promoting a circular economy can be chiefly attributed to cloth
 Hold workshops to educate and engage the benefits of a circular economy and sustainable consumption practices. The fashion industry is a significant contributor to environmental pollution and waste, and promoting sustainable practices such as repurposing and up-cycling can reduce its negative impact. Interactive workshops and education can increase awareness and engagement in sustainability initiatives, and measuring the impact of sustainable fashion initiatives is essential. According to research by Wilson, Velasco, and Winter (2019), promoting sustainable consumption practices can lead to significant reductions in environmental impact. The study emphasizes that educating consumers about the benefits of sustainable consumption practices can lead to long-term behaviour change and contribute to the transition towards a more sustainable society.
 
 The use of themed workshops as a tool for increasing sustainability is backed by multiple studies. For instance, a 2019 study by Nilsson and Berglund discovered that themed workshops on food waste were successful in lowering home waste. Huber et al.'s (2017) further research found that themed workshops on zero waste were effective at encouraging behavioural change and lowering waste in the workplace. Likewise, it has been discovered that workshops on sustainable fashion are successful in encouraging more conscientious consumer behaviour (Moore et al., 2018).
+
+<img width="418" height="284" alt="image" src="https://github.com/user-attachments/assets/8a159ed4-26b7-4265-b4eb-4e872aa56286" />
+
+**Figure 11 – Goals for workshop**
 
 #### Table 7 - Implementation Plan for Workshop
 
