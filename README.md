@@ -68,6 +68,7 @@ The main effect of textile waste is water, microfiber, air, and soil pollution. 
 <img width="484" height="371" alt="Screenshot 2026-10-11 140022" src="https://github.com/user-attachments/assets/499031ab-711f-44bc-88df-2d2eed756105" />
 
 **Figure 3 - Mendelow's Matrix Visual Diagram** 
+
 ---
 
 ## Part B - Analysis of the External Business Environment
@@ -90,6 +91,7 @@ According to Scott (2023), when a non-profit organisation like the Rotary Club o
 <img width="508" height="305" alt="Screenshot 2026-10-11 140005" src="https://github.com/user-attachments/assets/e86a558c-65ba-447a-b700-ab3c34d328c7" />
 
 **Figure 4 - Porter's Five Forces Model Diagram**  
+
 ---
 
 ## Part C - Competitor Analysis
@@ -233,6 +235,7 @@ By selling the repurposed items at the workshop, the RCC could generate revenue 
 <img width="440" height="445" alt="Screenshot 2026-10-11 140220" src="https://github.com/user-attachments/assets/cd43602f-529c-4c99-91b5-0107a2e8eb10" />
 
 **Figure 10 - Key Statistics Sustainable Fashion Industry Infographic**  
+
 ---
 
 ## Conclusion
