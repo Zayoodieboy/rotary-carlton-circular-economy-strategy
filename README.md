@@ -1,5 +1,4 @@
-# Business Consulting Project
-## Assignment 2(A)-Recommendation Report
+# ♻️ Rotary Club of Carlton (RCC): "From Waste to Wardrobe" Circular Fashion Strategy
 
 **Written by:**
 * Julian White 101740200
